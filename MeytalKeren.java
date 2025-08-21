@@ -1,7 +1,7 @@
 public class MeytalKeren {
     public static void main(String[] args) {
         for(int i=0; i<5; i++){
-            System.out.println("Meytal Keren");
+            System.out.println("Meytal Keren different print");
         }
     }
 }
